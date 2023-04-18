@@ -1,0 +1,4 @@
+web adalah kumpulan dari halaman web yang saling berhubungan yang pada umum nya berisi kumpulan informasi yang disediakan perorangan,kelompok atau organisasi
+URI bisa berupa nama,lokasi,atau nama dan lokasi, sedangkan URL hanya menyediakan lokasi resouce
+<html> tag utama dalam html <head> untuk  bagian kepala dari dokumen <title> untuk judul web
+untuk deklarasi tipe dokumen 
